@@ -1,0 +1,2 @@
+markdown: maruku
+exclude: [.*, convert]

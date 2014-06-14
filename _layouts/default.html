@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta name="keywords" content="Ephemerisle,Anchoring,Art Project,Basics,Coordination between attendees,History of Ephemerisle,Knots,Links" />
+    <link rel="stylesheet" href="/stylesheets/commonPrint.css?207" type="text/css" media="print" />
+    <link rel="stylesheet" href="/stylesheets/main.css?207" type="text/css" media="screen" />
+  </head>
+<body class="mediawiki ltr ns-0 ns-subject page-Ephemerisle skin-monobook">
+    <div id="globalWrapper">
+        <div id="column-content">
+    <div id="content">
+        <div id="bodyContent">
+            <div id="contentSub"></div>
+{{ content }}
+        </div>
+    </div>
+</div>
+<div id="column-one">
+    <div class="portlet" id="p-logo">
+        <a style="background-image: url(/images/logo.png);" href="/index.html" title="" accesskey="z"></a>
+    </div>
+    <div class='portlet'>
+        <h5>Tools</h5>
+        <div class='pBody'>
+            <ul>
+                <li><a href="https://github.com/" title="Edit on GitHub" accesskey="r">Edit</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class='portlet'>
+        <h5>Navigation</h5>
+        <div class="pBody">
+            <ul>
+{% for page in site.pages %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>
