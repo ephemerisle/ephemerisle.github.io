@@ -117,10 +117,7 @@ Getting there
 -------------
 
 The event
-([<http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=38.052957>,-121.538486&spn=0.071912,0.139561&msid=100718037888704317369.0004864803082020221ed&source=embed
-map]) is 3 miles by water from H&H Marina
-([<http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode>=&q=Bethel+Island,+CA&aq=0&sll=37.0625,-95.677068&sspn=35.90509,46.054687&ie=UTF8&hq=&hnear=Bethel+Island,+Contra+Costa,+California&ll=38.061025,-121.499627&spn=0.002179,0.002811&t=h&z=18
-map]) at the end of 8 Mile Rd near Stockton.
+([map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=38.052957,-121.538486&spn=0.071912,0.139561&msid=100718037888704317369.0004864803082020221ed&source=embed])) is 3 miles by water from [H&H Marina](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Bethel+Island,+CA&aq=0&sll=37.0625,-95.677068&sspn=35.90509,46.054687&ie=UTF8&hq=&ll=38.061025,-121.499627&spn=0.002179,0.002811&t=h&z=18) at the end of 8 Mile Rd near Stockton. In 2014, H&H Marina had problems, and departures were mostly from [Paradise Point Marina](https://www.google.com/maps/place/Paradise+Point+Marina/@38.046355,-121.418194,17z/data=!3m1!4b1!4m2!3m1!1s0x80900843499b84dd:0x8de034b8316d769d).
 
 It may be possible to cross to 200 feet from H&M marina to Venice
 Island, portage your craft 2 miles to the other side of the island, and
