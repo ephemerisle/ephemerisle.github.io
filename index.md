@@ -50,11 +50,17 @@ Never board a boat without asking first as according to the ancient laws
 of the sea, each captain is sovereign over his vessel. But the default
 assumption at this event is that you will be welcomed aboard.
 
+
+Ephemerisle 2014 - July 14-20
+-----------------------------
+Again, there were two islands, with speedboat and jet ski service gracefully provided by several kind folks, especially Randolph Hencked of The Seasteading Institute.
+
+For pics, check out the fantastic [Ephemerisle 2014 album by Judd Weiss](https://www.facebook.com/juddweiss/media_set?set=a.10152695375805763.1073741948.544700762).
+
 Ephemerisle 2013 - July 10-14
 -----------------------------
 
-Ephemerisle 2013 has concluded. Not many pics/vids are up yet as of
-7/15, but you can try [searching tweets with hashtag
+Try [searching tweets with hashtag
 \#ephemerisle](https://twitter.com/search?q=%23ephemerisle), [and
 looking for tagged photos on the Facebook
 group](https://www.facebook.com/events/374789335951171/).
