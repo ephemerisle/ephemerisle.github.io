@@ -14,10 +14,12 @@ To edit a page:
 
 * Click on the page you want to edit
 * Click the "pencil" icon in the upper right hand corner. 
+* Edit the page with the Markdown markup. 
+*  Click "Commit changes" button at the bottom.
 
 To delete a page: 
 
-To link to another (internal) page: 
-
-To link to another (external) Page: 
+* Click on the page. 
+* Click the "trashcan" icon in the upper right
+* Click "Commit changes" button at the bottom. 
 
