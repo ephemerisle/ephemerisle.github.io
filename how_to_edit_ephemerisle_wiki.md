@@ -8,7 +8,7 @@ The Ephemerisle Wiki uses Github's version of the Markdown markup language.  You
 To create a new page: 
 
 * Go to [the Ephemerisle github homepage](https://github.com/ephemerisle/ephemerisle.github.io)
-* Click the + button next to "ephemerisle.github.io/". Make sure to name your file with the .md file extension.
+* Click the + button next to "ephemerisle.github.io/" link under the purple horizontal bar. Make sure to name your file with the .md file extension.
 
 To edit a page:
 
