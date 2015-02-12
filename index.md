@@ -8,7 +8,7 @@ title: Ephemerisle
 Ephemerisle
 ===========
 
-<div class="thumb tright"><div class="thumbinner" style="width:442px;"><a href="/images/Home-animated-gif.gif" class="image" title="Ephemerisle 2009"><img alt="" src="/images/home-animated-gif.gif" width="440" height="330" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Home-animated-gif.gif" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Ephemerisle 2009</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:442px;"><a href="/images/Home-animated-gif.gif" class="image" title="Ephemerisle 2009"><img alt="" src="/images/home-animated-gif.gif" width="440" height="330" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Home-animated-gif.gif" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
 
 Ephemerisle is a floating celebration of community, learning, art and
 seasteading.
