@@ -1,3 +1,8 @@
+---
+layout: default
+title: How to Edit the Ephemerisle Wiki
+---
+
 The Ephemerisle Wiki uses Github's version of the Markdown markup language.  You can read a tutorial for editing github hosted wikis with Markdown here: 
 
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/)
