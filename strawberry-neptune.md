@@ -83,7 +83,7 @@ Crew:
 8.  Brian O.
 9.  Justin
 10. Clay
-11. Kelly Ramnarine
+11. Kelly
 12. Robert
 13. Mary
 14. David
